@@ -8,10 +8,10 @@ I am an aspiring Software Engineer currently studying at AltSchool Africa. I'm p
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I am currently learning HTML, CSS, JavaScript and Python.
+- 🌱 I am currently learning HTML, CSS, JavaScript and Python(Flask framework).
 - 😊 I am currently open to open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](bsolodzi@gmail.com) and contact me by emailing bsolodzi@gmail.com.
+- 📫 You can [view my resume](https://www.linkedin.com/in/bernard-kwame-solodzi) and contact me by emailing bsolodzi@gmail.com.
 
 ---
 
