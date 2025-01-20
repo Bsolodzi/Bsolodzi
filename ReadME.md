@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/-BSOLODZI-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://https://linktr.ee/BSOLODZI)](https://linktr.ee/BSOLODZI) [![Linkedin Badge](https://img.shields.io/badge/bernard_kwame_solodzi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernard-kwame-solodzi)](https://www.linkedin.com/in/bernard-kwame-solodzi) [![Twitter Badge](https://img.shields.io/badge/-@boss_assignment-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/boss_assignment)](https://twitter.com/boss_assignment)
 
-I am an aspiring Software Engineer. I am passionate about sharing knowledge, collaboration and solving problems. Interested in health informatics and bioinformatics, health-tech, data science and analysis,  and biomedical research.
+I am passionate about sharing knowledge, collaboration and solving problems with interests in health informatics and bioinformatics, health-tech, data science and analysis,  and biomedical research.
 
 **Here's a quick summary about me**:
 
