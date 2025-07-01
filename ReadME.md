@@ -6,7 +6,7 @@ I am passionate about sharing knowledge, collaboration and solving problems with
 
 **Here's a quick summary about me**:
 
-- 🌱 Backend engineering: `Python` & Cloud Computing: `AWS CCP certified`; `Preparing for AWS SAA` 
+- 🌱 Backend engineering: `Python` & Cloud Computing: `AWS Certified Cloud Practitioner`; `Preparing for AWS Cloud Solutions Architect- Associate` 
 - 😊 I am open to open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer/Backend Engineer/Web developer.
 - 📫 You can [view my resume](https://www.linkedin.com/in/bernard-kwame-solodzi) and contact me by emailing bsolodzi@gmail.com.
