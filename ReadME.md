@@ -6,6 +6,7 @@ I am passionate about sharing knowledge, collaboration and solving problems with
 
 ## Skills
 Technical: `AWS Cloud Services`, `Python`, `R`, `Flask`, `Linux`, `HTML5`, `CSS3`, `MySQL`, `RESTful API development`, `Bash Scripting` & `Databases`.
+
 Tools: `Docker`, `Terraform`, `Kubernetes`, `MySQL Workbench`, `Git and GitHub`.
 
 **Here's a quick summary about me**:
